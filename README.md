@@ -1,10 +1,14 @@
-# vagrantTvb
-Simple vagrantfile script for virtual brain under INCF, GSoC 2018 prove 
+## vagrantTvb
 
-#vagrantfile
-contain debian jessie
+Simple vagrantfile script and bash script for virtual brain under INCF, for GSoC 2018 prove 
 
-# tvbsetup
-Install curl using apt-get
-Download miniconda.sh using curl on /tmp directory
-Install tvb-framework using conda 
+## vagrantfile
+
+contain debian jessie on virtualbox
+
+### tvbsetup
+
+1.Install curl using apt-get
+2.Download miniconda.sh using curl on /tmp directory
+3.Install the downloaded miniconda using bash
+4.Install tvb-framework using conda install
