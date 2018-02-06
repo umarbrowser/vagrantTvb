@@ -1,10 +1,6 @@
 # Vagrantfile Scrpt
 > Simple vagrantfile script and bash script for virtual brain under INCF, for GSoC 2018 prove.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 This will install TVB package contain debian jessie on virtualbox.
 
 ![](header.png)
@@ -13,17 +9,19 @@ This will install TVB package contain debian jessie on virtualbox.
 
 OS X & Linux:
 
-```vagrant up
+```sh
+vagrant up
 ```
 
 Windows:
 
-```vagrant up
+```sh
+vagrant up
 ```
 
 ## Meta
 
-Your Name – [@pyc0d3r](https://twitter.com/UmarParooq) – umarbrowser20@gmail.com
+Umar Haruna Abdullahi – [@pyc0d3r](https://twitter.com/UmarParooq) – umarbrowser20@gmail.com
 
 
 [https://github.com/umarbrowser/vagrantTvb](https://github.com/umarbrowser/)
