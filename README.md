@@ -1,16 +1,31 @@
-## vagrantfile scrpt
+# Vagrantfile Scrpt
+> Simple vagrantfile script and bash script for virtual brain under INCF, for GSoC 2018 prove.
 
-Simple vagrantfile script and bash script for virtual brain under INCF, for GSoC 2018 prove 
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
-## *vagrantfile*
+This will install TVB package contain debian jessie on virtualbox.
 
-contain debian jessie on virtualbox.
-A shell directory on the same directory.
+![](header.png)
 
-### *tvbsetup*
+## Installation
 
-1. Install curl using apt-get.
-2. Download miniconda.sh using curl on /tmp directory.
-3. Install the downloaded miniconda using bash.
-4. Install tvb-framework using conda install.
-[documentation](https://conda-forge.org/docs/recipe.html) and the [FAQ](https://github.com/conda-forge/staged-recipes#faq)  for help.
+OS X & Linux:
+
+```vagrant up
+```
+
+Windows:
+
+```vagrant up
+```
+
+## Meta
+
+Your Name – [@pyc0d3r](https://twitter.com/UmarParooq) – umarbrowser20@gmail.com
+
+
+[https://github.com/umarbrowser/vagrantTvb](https://github.com/umarbrowser/)
+
+For more examples and usage, please refer to the [Wiki][doc.thevirtualbrain.org]
