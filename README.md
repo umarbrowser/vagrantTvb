@@ -7,7 +7,7 @@
 
 This will install TVB package contain debian jessie on virtualbox.
 
-![](header.png)
+![](TVB_logo.svg)
 
 ## Installation
 
